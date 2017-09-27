@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\devlopCode\\InstallOpertionDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\new\\.android\\build-cache\\e051f8df1fea99dd0524328bbe74c0629d130809\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\devlopCode\\InstallOpertionDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\new\\.android\\build-cache\\e051f8df1fea99dd0524328bbe74c0629d130809\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\devlopCode\\InstallOpertionDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\new\\.android\\build-cache\\e051f8df1fea99dd0524328bbe74c0629d130809\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\devlopCode\\InstallOpertionDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\new\\.android\\build-cache\\e051f8df1fea99dd0524328bbe74c0629d130809\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\devlopCode\\InstallOpertionDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\new\\.android\\build-cache\\e051f8df1fea99dd0524328bbe74c0629d130809\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\devlopCode\\InstallOpertionDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\new\\.android\\build-cache\\e051f8df1fea99dd0524328bbe74c0629d130809\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    }
+]
